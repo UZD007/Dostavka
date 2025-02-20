@@ -1,0 +1,381 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+header .bosh nav ul{
+    list-style: none;
+}
+
+header .bosh nav ul a{
+    text-decoration: none;
+    color: #363853;
+    transition: 0.5s;
+font-weight: 400;
+font-size: 18px;
+line-height: 21.33px;
+
+}
+
+header .bosh nav ul a:hover{
+    color: #FF6838;
+
+}
+
+ul{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+
+.btn{
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    background: #FF7A50;
+color: white;
+box-shadow: 0px 22px 40px 0px #FF683830;
+border: none;
+}
+
+.sec{
+    display: flex;
+    align-items: center;
+    gap: 90px;
+    margin-bottom: 100px;
+}
+
+main .mavzu h1{
+font-weight: 700;
+font-size: 66px;
+line-height: 78.21px;
+    color: #363853;
+
+
+
+}
+
+.sec .mavzu span{
+    color: #FF7A50;
+gap: 40px;
+}
+
+.mavzu p{
+   margin: 23px 0;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+color: #363853;
+
+}
+
+
+.sec1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 50px;
+}
+
+
+.sec1 p{
+    padding: 95px 0;
+}
+
+.btn2{
+    width: 120px;
+    height: 50px;
+    border-radius: 30px 30px 1px 30px;
+    background: #FF7A50;
+color: white;
+box-shadow: 0px 22px 40px 0px #FF683830;
+border: none;
+}
+
+.food{
+    color: #FF6838;
+}
+h1{
+    text-align: center;
+font-weight: 700;
+font-size: 36px;
+line-height: 30px;
+color: #363853;
+margin-bottom: 70px;
+}
+
+ 
+ 
+
+.spp{
+    color: #FF6838;
+}
+
+
+.card h3{
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+color: #363853;
+padding-left:  20px;
+padding: 14px;
+}
+
+
+.btn3{
+    width: 80px;
+    height: 40px;
+    border-radius: 30px 30px 1px 30px;
+    background: #FF7A50;
+color: white;
+box-shadow: 0px 22px 40px 0px #FF683830;
+border: none;
+}
+
+.card{
+    width: 361px;
+    height: 417px;
+    background: #f6fbff;
+
+}
+.soat{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.soat .oo{
+    display: flex;
+    gap: 5px;
+    color: #363853;
+}
+
+.soat .oo i{
+    color: rgb(116, 116, 116);
+}
+
+
+.pizza{
+    display: flex; 
+    align-items: center;
+    gap: 70px;
+    margin-bottom: 150px;
+}
+
+
+
+
+footer{
+ display: flex;
+ align-items: center;
+padding-bottom: 90px;
+
+}
+
+.oyog{
+    width: 1170px;
+    height: 312px;
+    margin: 0 auto;
+    background: #FF7A50;
+
+    border-radius: 30px;
+    padding: 59px 0;
+}
+footer .oyog h1{
+    color: white;
+font-weight: 800;
+font-size: 40px;
+line-height: 47.4px;
+text-align: center;
+
+
+}
+
+
+.in{
+    width: 838px;
+    height: 78px;
+    border-radius: 60px;
+padding-left: 20px;
+border: 1px solid #000000;
+margin-left: 150px;
+outline: none;
+}
+
+.btn4{
+        width: 191px;
+        height: 58px;
+        border-radius: 70px;
+        background: #FF7A50;
+color: white;
+border: 1px solid #000000;
+margin-left: -220px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
